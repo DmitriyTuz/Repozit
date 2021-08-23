@@ -1,3 +1,4 @@
+1
 let db = {};
 let model = {name: "Dima"};
 //console.log(model.name);
